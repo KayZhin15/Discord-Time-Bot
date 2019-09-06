@@ -10,10 +10,10 @@
 module.exports = {
 	/**
 	 * @desc Bot username without discriminator
-	 * @default "MyTimeBot"
+	 * @default "TimeBot"
 	 * @type string
 	 */
-	name: "MyTimeBot",
+	name: "TimeBot",
 	/**
 	 * @desc Global bot command prefix
 	 * @default "?"
@@ -22,10 +22,10 @@ module.exports = {
 	prefix: "?",
 	/** 
 	 * @desc Discord API bot token (keep it secret)
-	 * @default "InsertYourTokenHere"
+	 * @default "NjE5NTc1MTgzNTgxMjQ5NTM3.XXKOsA.vDHot6EAnK2hkgxrza8xe-oJvAA"
 	 * @type string
 	 */
-	token: "InsertYourTokenHere",
+	token: "NjE5NTc1MTgzNTgxMjQ5NTM3.XXKOsA.vDHot6EAnK2hkgxrza8xe-oJvAA",
 	/** 
 	 * @desc Global bot response heading
 	 * @default "\uD83D\uDD52 Discord Time Bot"
